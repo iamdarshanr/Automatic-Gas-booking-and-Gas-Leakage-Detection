@@ -1,0 +1,13 @@
+unsigned result1,i,x=0,y=0,j,count1=0,result;
+float value1,result2;
+
+char txt3[] = "EMERGENCY ALERT";
+char txt4[] = "LPG GAS LEAKAGE" ;
+char txt2[] = "Booking Gas";
+char txt1[] = "Gas rem Only 1Kg";
+char txt0[] = "Immediately Refill Your Cylinder";
+
+//char uard_rd;
+
+charerror,data_read[10],byte_read,data_read1[10];
+
